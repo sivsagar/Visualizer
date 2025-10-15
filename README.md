@@ -2,7 +2,7 @@
 
 A beautiful, interactive web application for visualizing sorting algorithms with real-time performance metrics and educational complexity information.
 
-[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-Visit_Now-blue?style=for-the-badge)](https://your-vercel-url.vercel.app)
+[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-Visit_Now-blue?style=for-the-badge)](https://visualizer-coral.vercel.app/)
 ![Sorting Visualizer](https://img.shields.io/badge/Status-Complete-brightgreen)
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-yellow)
 ![HTML5](https://img.shields.io/badge/HTML5-Latest-orange)
