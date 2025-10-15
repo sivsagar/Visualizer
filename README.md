@@ -213,8 +213,8 @@ This project is created for educational purposes. Feel free to use and modify fo
 
 ## 🔗 Links
 
-- 🌐 **Live Demo**: [Visit the deployed application](https://your-vercel-url.vercel.app)
-- 📚 **Repository**: [View source code](https://github.com/yourusername/sorting-visualizer)
+- 🌐 **Live Demo**: [Visit the deployed application]([https://your-vercel-url.vercel.app](https://visualizer-coral.vercel.app/))
+- 📚 **Repository**: [View source code]([https://github.com/yourusername/sorting-visualizer](https://github.com/sivsagar/Visualizer))
 - 🎯 **Assignment**: DSA Sorting Algorithm Visualizer
 
 ---
