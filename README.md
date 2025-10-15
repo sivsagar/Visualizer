@@ -39,7 +39,7 @@ A beautiful, interactive web application for visualizing sorting algorithms with
 ## 🚀 Quick Start
 
 ### Option 1: Live Demo (Recommended)
-🌐 **[Try it online now!]([https://your-vercel-url.vercel.app](https://visualizer-coral.vercel.app/))** - No setup required!
+🌐 **[Try it online now!](https://your-vercel-url.vercel.app](https://visualizer-coral.vercel.app/))** - No setup required!
 
 ### Option 2: Direct Browser
 1. Download all files to a folder
